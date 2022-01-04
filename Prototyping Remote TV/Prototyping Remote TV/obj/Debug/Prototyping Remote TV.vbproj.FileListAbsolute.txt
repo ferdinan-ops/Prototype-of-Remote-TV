@@ -1,0 +1,14 @@
+C:\Users\ASUS\AppData\Local\Temporary Projects\Prototyping Remote TV\bin\Debug\Prototyping Remote TV.exe.config
+D:\Semua Projek VB.Net\Tugas Kelompok IMK\Prototype Remote\Prototyping Remote TV\Prototyping Remote TV\bin\Debug\Prototyping Remote TV.exe.config
+D:\Semua Projek VB.Net\Tugas Kelompok IMK\Prototype Remote\Prototyping Remote TV\Prototyping Remote TV\bin\Debug\Prototyping Remote TV.exe
+D:\Semua Projek VB.Net\Tugas Kelompok IMK\Prototype Remote\Prototyping Remote TV\Prototyping Remote TV\bin\Debug\Prototyping Remote TV.pdb
+D:\Semua Projek VB.Net\Tugas Kelompok IMK\Prototype Remote\Prototyping Remote TV\Prototyping Remote TV\bin\Debug\Prototyping Remote TV.xml
+D:\Semua Projek VB.Net\Tugas Kelompok IMK\Prototype Remote\Prototyping Remote TV\Prototyping Remote TV\bin\Debug\Guna.UI.dll
+D:\Semua Projek VB.Net\Tugas Kelompok IMK\Prototype Remote\Prototyping Remote TV\Prototyping Remote TV\obj\Debug\Prototyping_Remote_TV.Main.resources
+D:\Semua Projek VB.Net\Tugas Kelompok IMK\Prototype Remote\Prototyping Remote TV\Prototyping Remote TV\obj\Debug\Prototyping_Remote_TV.Resources.resources
+D:\Semua Projek VB.Net\Tugas Kelompok IMK\Prototype Remote\Prototyping Remote TV\Prototyping Remote TV\obj\Debug\Prototyping Remote TV.vbproj.GenerateResource.Cache
+D:\Semua Projek VB.Net\Tugas Kelompok IMK\Prototype Remote\Prototyping Remote TV\Prototyping Remote TV\obj\Debug\Prototyping Remote TV.exe
+D:\Semua Projek VB.Net\Tugas Kelompok IMK\Prototype Remote\Prototyping Remote TV\Prototyping Remote TV\obj\Debug\Prototyping Remote TV.xml
+D:\Semua Projek VB.Net\Tugas Kelompok IMK\Prototype Remote\Prototyping Remote TV\Prototyping Remote TV\obj\Debug\Prototyping Remote TV.pdb
+D:\Semua Projek VB.Net\Tugas Kelompok IMK\Prototype Remote\Prototyping Remote TV\Prototyping Remote TV\bin\Debug\Guna.UI2.dll
+D:\Semua Projek VB.Net\Tugas Kelompok IMK\Prototype Remote\Prototyping Remote TV\Prototyping Remote TV\obj\Debug\Prototyping Remote TV.vbprojResolveAssemblyReference.cache
