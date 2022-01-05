@@ -1,4 +1,4 @@
 # Prototype of Remote TV
 
 # Screenshoot
-![Screenshot (61)](https://user-images.githubusercontent.com/84588706/148153324-be1dd53b-5352-488c-8dde-14ae32868b9a.png)
+![Screenshot2 (61)](https://user-images.githubusercontent.com/84588706/148153510-2312f79c-472b-4a38-a7d7-8d4b852ac875.png)
