@@ -7,8 +7,10 @@ The Control Panel is the part of the product that the user interacts with to per
 
 <h2>What I Use</h2>
 <ol>
-  <li><b>IDE :</b>Microsoft Visual Studio 2012</li>
-  <li><b>Programing Languange :</b>Visual Basic</li>
+  <li><b>IDE:</b> Microsoft Visual Studio 2012</li>
+  <li><b>Programing Languange:</b> Visual Basic</li>
+  <li><b>Framework:</b> GUNA UI</li>
+  <li><b>CI/CD:</b> Github</li>
 </ol>
 
 # Screenshoot
